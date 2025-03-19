@@ -1,0 +1,11 @@
+-I../Inc
+-I../../Extra
+-I../../Drivers/CMSIS/Core/Include
+-I../../Drivers/STM32L4xx_HAL_Driver/Inc
+-I../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2
+-I../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F
+-I../../Drivers/CMSIS/Device/ST/STM32L4xx/Include
+-I../../USB_DEVICE/App
+-I../../USB_DEVICE/Target
+-I../../Middlewares/Third_Party/FreeRTOS/Source/include
+-I../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc
